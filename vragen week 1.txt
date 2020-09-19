@@ -1,0 +1,31 @@
+What are the names of the latest three versions of Android?
+9(pie) 10 11
+What does the abbreviation ART stand for?
+android run time
+
+What is Android Jetpack?
+Jetpack is a suite of libraries to help developers follow best practices, reduce boilerplate code, and write code that works consistently across Android versions and devices so that developers can focus on the code they care about.
+
+Describe the difference between the fixed, wrap_content and match_constraint setting of the constraint layout?
+
+Fixed: You specify a specific dimension in the text box below or by resizing the view in the editor.
+Wrap Content: The view expands only as much as needed to fit its contents.
+Match Constraints: The view expands as much as possible to meet the constraints on each side (after accounting for the view's margins).
+
+
+
+What does the abbreviation DP stand for and why do we need them?
+Independent pixel, niet elke telefoon heeft hetzelfde aantal pixels. met DP kun je de grootte van een bijv letter beter vaststellen.
+
+What is the purpose of the string.xml file?
+Om strings op te slaan. Je kunt deze in elke xml layout pagina gebruiken bij een component. Alles op 1 plek, overzichtelijk en makkelijk aan te passen. Bespaart tijd wanneer je iets aanpast.
+
+
+Why is the layout in Android specified by .xml files?  Why not just have the layout in the code (Kotlin or Java)?
+-
+
+What kind of information can be found in the manifest file?
+
+
+What is the purpose of view binding in Android?
+Om programmeren makkelijker te maken en veiliger
