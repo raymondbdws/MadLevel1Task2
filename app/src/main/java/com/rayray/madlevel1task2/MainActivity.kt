@@ -57,7 +57,7 @@ class MainActivity : AppCompatActivity() {
             Log.d("TAG", "answer ${etList[index]} :  ${answers[index]}")
 
             if (etList[index].toString().equals(answers[index]))
-                count += 1
+                count++
         }
         return count
     }
